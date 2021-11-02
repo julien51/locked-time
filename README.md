@@ -1,0 +1,1 @@
+This is an Express application that gives time. The free tier allows users to get time in 5 timezones, but paying members can access time in any timezone, based on the city name!
